@@ -26,6 +26,8 @@ Mt8 Secret Commentsは、管理者にしか見れないコメントを書き込�
 
 == Frequently Asked Questions ==
 
+Still nothing.
+
 == Upgrade Notice ==
 
 = 1.0 =
