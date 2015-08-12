@@ -102,7 +102,7 @@
 				return $comment_content;
 			}
 			
-			if ( $this->is_secret( $comment->comment_ID ) ) {
+			if ( $this->is_secret( $comment->comment_ID ) && ! current_user_can( 'administrator' ) ) {
 				return __( 'Only administrators can see this comment.', self::TEXT_DOMAIN );
 			} else {
 				return $comment_content;
