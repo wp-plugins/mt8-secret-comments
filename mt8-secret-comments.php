@@ -4,7 +4,7 @@
 	Plugin URI: https://github.com/mt8/mt8-secret-comments
 	Description: Write a comment visible only to admin.
 	Author: mt8.biz
-	Version: 1.0
+	Version: 1.0.1
 	Author URI: http://mt8.biz
 	Domain Path: /languages
 	Text Domain: mt8-secret-comments
