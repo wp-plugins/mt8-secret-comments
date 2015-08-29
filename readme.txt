@@ -4,7 +4,7 @@ Donate link: http://mt8.biz
 Tags: comment,secret
 Requires at least: 4.2
 Tested up to: 4.3
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
