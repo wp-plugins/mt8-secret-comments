@@ -1,9 +1,9 @@
 === Mt8 Secret Comments ===
 Contributors: mt8.biz
 Donate link: http://mt8.biz
-Tags: sns,share
+Tags: comment,secret
 Requires at least: 4.2
-Tested up to: 4.2.4
+Tested up to: 4.3
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -32,7 +32,20 @@ Still nothing.
 
 = 1.0 =
 
+* first release
+
+= 1.0.1 =
+
+* Tested up to: 4.3
+* fix plugin tags in readme.txt
+
 == Changelog ==
 
-= 1.0.0 =
+= 1.0 =
+
 * 初版リリース
+
+= 1.0.1 =
+
+* 4.3でテスト
+* readme.txt
